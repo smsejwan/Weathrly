@@ -7,7 +7,7 @@
 ### Start Page:  
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Start page](/start.png")
 
 ---  
 ### Weather report with the following info:  
@@ -17,3 +17,4 @@ Inline-style:
 - the current condition
 - a summary of what the weather is going to be like that day 
 
+![Weather report](/weather.png")
