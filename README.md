@@ -7,7 +7,7 @@
 ### Start Page:  
 
 Inline-style: 
-![Start page](https://github.com/smsejwan/Weathrly/master/start.png")
+![Start page](https://github.com/smsejwan/Weathrly/blob/master/start.png)
 
 ---  
 ### Weather report with the following info:  
@@ -17,4 +17,4 @@ Inline-style:
 - the current condition
 - a summary of what the weather is going to be like that day 
 
-![Weather report](https://github.com/smsejwan/Weathrly/master/weather.png")
+![Weather report](https://github.com/smsejwan/Weathrly/blob/master/weather.png)
